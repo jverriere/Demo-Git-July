@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?><!--Internal Information used to aid in debugging customer issues:
 Build Version: 1.0000
-Time Stamp: 07/05/2024 09:21:50 586ms
+Time Stamp: 07/05/2024 09:22:46 927ms
 License Information: Licensed Feature: GTguiB
 Entitlement ID: DICPWPBITTQJBUTNUWZSFHEBNRPXGX
 License Server: localhost
@@ -1054,7 +1054,7 @@ JMF    version : 2.1.1e
                 <part center_x="460" center_y="360" id="p65568" name="1" o_id="60040" t_id="311"/>
                 <part center_x="580" center_y="240" id="p65569" name="Spring-2" o_id="60035" t_id="220">
                     <value>
-                        <va a_id="2539" on="true" text="3" unitID="133"/>
+                        <va a_id="2539" on="true" text="4" unitID="133"/>
                     </value>
                 </part>
             </part_table>
